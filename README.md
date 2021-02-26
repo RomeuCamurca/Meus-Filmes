@@ -6,7 +6,7 @@
 
 ![](captured.gif)
 
-## Como executar os projetos:
+## Como executar o projeto:
 
 1. clone o repositório `$ git clone https://github.com/RomeuCamurca/Meus-Filmes.git`
 
